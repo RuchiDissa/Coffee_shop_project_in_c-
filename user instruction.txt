@@ -1,0 +1,9 @@
+Login for Admin:
+
+username : admin
+password : password
+
+Login for homepage:
+
+username : home
+password : home
